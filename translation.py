@@ -6,7 +6,7 @@ I'm Renamer + File To Video Converter Bot With Permanent Thumbnail Support!⚡</
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
-    BANNED_USER_TEXT = "Sorry!! But Mr. Dlaize Banned You From Using This Service. That Means You Can't Run ME Now! \n \n Contact : @Dlaize For more Details.. " 
+    BANNED_USER_TEXT = "මේ හුත්තෝ උබට බෑ මාව පාවිචිචි කරන්න " 
     ABS_TEXT = "What Are You Trying To Do, Mate?"
     UPGRADE_TEXT = "CONTACT : Mr. @Dlaize"
     DOWNLOAD_START = "<b>╭─ ⌊ 📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ⌉ \n│\n</b>"
