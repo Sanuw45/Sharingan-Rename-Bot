@@ -1,32 +1,32 @@
 class Translation(object):
-    START_TEXT = """<b>Hey! {}\n
-I'm Renamer + File To Video Converter Bot With Permanent Thumbnail Support!⚡</b>
+    START_TEXT = """<b>Hi මචං {} කොහොමද?\n
+මම Renamer + File To Video Converter Bot With Permanent Thumbnail Support!⚡</b>
 
-<b>Do /help for more Details ...</b>
+<b>මාව පාවිච්ච් කරන හැටි දැනගන්න /help ගහන්න පුතා!! </b>
 """
 
-    RENAME_403_ERR = "What Are You Doing? Bruuh!!"
+    RENAME_403_ERR = "මොනාද පකෝ කරන්නේ? 😡😡😡"
     BANNED_USER_TEXT = "මේ හුත්තෝ උබට බෑ මාව පාවිචිචි කරන්න " 
-    ABS_TEXT = "What Are You Trying To Do, Mate?"
-    UPGRADE_TEXT = "CONTACT : Mr. @Dlaize"
-    DOWNLOAD_START = "<b>╭─ ⌊ 📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ⌉ \n│\n</b>"
-    UPLOAD_START = "<b>╭─ ⌊ 📤 ᴜᴘʟᴏᴀᴅɪɴɢ ⌉ \n│\n</b>"
+    ABS_TEXT = "මොනාද bn කරන්න හදන්නේ, 🤣"
+    UPGRADE_TEXT = "CONTACT : Mr. @Sanu439"
+    DOWNLOAD_START = "<b>╭─ ⌊ 📥 ඔන්න එහෙනම් උඹ දුන්න එක Download වෙනවා ⌉ \n│\n</b>"
+    UPLOAD_START = "<b>╭─ ⌊ 📤 හරි හරි Telegram Upload වෙනෝ 🥳 ⌉ \n│\n</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me SHARE > ⚡</b>"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT : <a href='https://telegram.me/dlaize'> ᴍʀ. ᴅʟᴀɪᴢᴇ</a>"
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact Mr. @Dlaize"
-    SAVED_CUSTOM_THUMB_NAIL = "<b>Thumbnail Saved ✅ This Is Permanent Until</b> ❌ /delthumb ❌"
-    DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Cleared Succesfully🤦"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded වීමට {} seconds.\nUploaded වීමට {} seconds"
+    NOT_AUTH_USER_TEXT = "CONTACT : <a href='https://telegram.me/Sanu439'> ᴍʀ. sanu</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact Mr. @Sanu439"
+    SAVED_CUSTOM_THUMB_NAIL = "<b>Thumbnail එක Save උනා ✅ මේක දිගටම තියනවා bn . එපා නම්</b> ❌ /delthumb ❌"
+    DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail එක මැකුවා 🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media Cleared Succesfully."
-    SAVED_RECVD_DOC_FILE = "<b>File Downloaded Successfully 😎</b>"
-    REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Please Reply To An File With /rename file name extension To rename a file</b>"
-    REPLY_TO_FILE_FOR_CONVERT = "<b> Please Reply To An File With /c2v To Convert It Into Streamable Video File</b>"
-    REPLY_TO_DOC_FOR_C2A = "<b> Please Reply To An File/video With /c2a To Convert It Into Audio File</b>"
+    SAVED_RECVD_DOC_FILE = "<b>File එක Download උනා  😎</b>"
+    REPLY_TO_DOC_FOR_RENAME_FILE = "<b>උබට File එකක් Rename කරන්න ඕනි නම් /rename ගහන්න File එකේ extension එකත් එක්කම</b>"
+    REPLY_TO_FILE_FOR_CONVERT = "<b> මේ උබට File එකක් video එකට Convert කරන්න ඕනි නම් /c2v කියලා Reply කරපන්</b>"
+    REPLY_TO_DOC_FOR_C2A = "<b> උබට Audio එකට Convert කරන්න ඕනි නම් /c2a කියලා Reply කරපන්</b>"
     CUSTOM_CAPTION_UL_FILE = " "
-    NO_THUMB_FOUND = "No Thumbnail found ☠️"
+    NO_THUMB_FOUND = "Thumbnail එකක් නැනේ යකෝ ☠️"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters 🔻🔻"""
+    IFLONG_FILE_NAME = """රෙද්දක් කරනවද යකෝ අකුරු ගාන අඩු කරනවා 🔻🔻"""
     ABOUT_ME = """<b><u>About Me:</u></b>
     
 <b>An Multi purpose Bot Which Can :-</b>
@@ -34,11 +34,11 @@ I'm Renamer + File To Video Converter Bot With Permanent Thumbnail Support!⚡</
 ⚡ Set Custom Thumbnail
 ⚡ Convert Files into Video 
 
-📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/dlaize"><b>Mr. Dlaize</b></a>
+📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/Sanu439"><b>Mr. sanu</b></a>
     """
     HELP_USER = """🚨 Oh! You Need Help! Choose Available Commands below!
 ───────────────
-<b>Made with Thunder ⚡ by : @Dlaize</b>
+<b>Made with Thunder ⚡ by : @Sanu439</b>
 """
     
     RENAME_HELP = """
